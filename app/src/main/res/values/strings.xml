@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">札牛</string>
+    <string name="dummy_button">进入札牛</string>
+    <string name="dummy_content">札牛记～</string>
+    <string name="title_activity_main">札牛</string>
+    <string name="title_section1">社区</string>
+    <string name="title_section2">课程</string>
+    <string name="title_section3">关注</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">设置</string>
+
+</resources>
